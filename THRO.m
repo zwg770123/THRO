@@ -163,7 +163,7 @@ for It=1:MaxIt
                         Tianji_PopFit(Tianji_FastestId)=Tianji_newPopFit;
                         Tianji_PopPos(Tianji_FastestId,:)=Tianji_newPopPos;
                     end
-                    King_newPopPos=((p.*King_FastestPos+(1-p).*Tianji_FastestPos)+levy(1)*King_R.* ...
+                    King_newPopPos=((p.*King_FastestPos+(1-p).*Tianji_FastestPos)+King_R.* ...
                         ( Tianji_FastestPos-King_FastestPos+p*(mean(Tianji_PopPos)-mean(King_PopPos))))*King_Alpha+K_Beta; %Eq. (18)
                     King_newPopPos=SpaceBound(King_newPopPos,Up,Low);
                     King_newPopFit=BenFunctions(King_newPopPos,FunIndex,Dim);
