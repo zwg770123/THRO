@@ -1,4 +1,4 @@
-## Tianji's horse racing optimization (THRO)
+## Tianji's Horse Racing Optimization (THRO)
 
 Tianji's horse racing optimization (THRO) is inspired by the Chinese historical story of Tianji's horse racing. The story illustrates how Tianji leveraged his strengths to counteract his opponent's weaknesses, ultimately leading to his victory in the competition. The algorithm is effective and easy to implement. The performance of THRO is tested on 23 benchmark functions.
 
