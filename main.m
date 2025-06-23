@@ -4,10 +4,10 @@
 %--------------------------------------------------------------------------%                       
 % The code is based on the following paper:                                %
 % Wang, L., Du, H., Zhang. Z., Hu, G., Mirjalili, S., Khodadadi, N.,       % 
-%  Hussien, A.G., Liao, Y., Zhao, W. (2025).Tianji's horse racing          %
+%  Hussien, A.G., Liao, Y., Zhao, W. (2025). Tianji's horse racing         %
 % optimization (THRO): A new metaheuristic inspired by ancient wisdom      %
 % and its engineering optimization applications, Artificial Intelligence   %
-% Review, 58, xxx, https://doi.org/10.1007/s10462-025-11269-9.             %
+% Review, 58, 282. https://doi.org/10.1007/s10462-025-11269-9.             %
 %--------------------------------------------------------------------------%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % BestX:The best solution                  %
